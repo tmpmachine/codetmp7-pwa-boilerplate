@@ -1,4 +1,4 @@
-window.pwaCache = (function() {
+window.pwaCacheManager = (function() {
   
   // change this with your unique cache name
   let cacheName = 'sampleApp-NzY3OTc5OA';
