@@ -1,7 +1,8 @@
 {
   "root": [
-    "pwa-cache-manager.js",
+    "./",
     "index.html",
+    "pwa-cache-manager.js",
     "manifest.json"
   ]
 }
