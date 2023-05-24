@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+ 
+  <!-- basic setup -->
+  <meta name="viewport" content="width=device-width"/>
+  <link rel="manifest" href="manifest.json"/>
+  
+  <!-- some browsers might require additional setup PWA to be installable -->
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+
+</head>
+<body>
+  
+  <h1>My Sample App</h1>
+  
+  <button onclick="window.pwaCacheManager.recache()">Recache PWA</button>
+  <button onclick="window.pwaCacheManager.uncache()">Uncache PWA</button>
+  
+</body>
+</html>
