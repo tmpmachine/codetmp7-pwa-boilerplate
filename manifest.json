@@ -1,0 +1,14 @@
+{
+  "name": "Sample App",
+  "start_url": "./",
+  "icons": [
+    {
+      "src": "https://i.postimg.cc/tTTwY7JD/icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "display": "standalone",
+  "background_color": "#202020",
+  "theme_color": "#202020"
+}
